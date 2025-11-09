@@ -11,6 +11,9 @@ The application performs the following actions:
 
 Example Slack output:
 
+<img width="1697" height="1028" alt="Screenshot 2025-11-09 at 15 09 13" src="https://github.com/user-attachments/assets/132fe5ff-f8a0-493e-b03d-62cac3f9c991" />
+
+
 Israel devices below 20%  
 - Israel Office – Allison: 19%
 
